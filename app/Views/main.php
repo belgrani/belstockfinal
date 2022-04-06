@@ -2,4 +2,4 @@
 	//menu inicial
 ?>
 
-<h3> belstock </h3>
+<h3> Página principal belstock </h3>
